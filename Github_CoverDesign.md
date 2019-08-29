@@ -9,3 +9,4 @@
 
 [![loonajs](https://user-images.githubusercontent.com/25294569/63890998-d258a380-c9ec-11e9-9f0d-82f100d0d069.gif)](https://loonajs.com)
 
+![Angular](https://user-images.githubusercontent.com/25294569/63955021-b99fca80-ca8c-11e9-9362-1ee8083edd2e.gif)

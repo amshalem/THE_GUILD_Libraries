@@ -10,3 +10,4 @@
 [![loonajs](https://user-images.githubusercontent.com/25294569/63890998-d258a380-c9ec-11e9-9f0d-82f100d0d069.gif)](https://loonajs.com)
 
 ![Angular](https://user-images.githubusercontent.com/25294569/63955021-b99fca80-ca8c-11e9-9362-1ee8083edd2e.gif)
+[![modules](https://user-images.githubusercontent.com/25294569/64067074-ed185b80-cc2a-11e9-8f4d-5f1e19feaa0a.gif)](https://graphql-modules.com/)

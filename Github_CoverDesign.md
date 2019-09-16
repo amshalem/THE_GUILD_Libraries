@@ -20,3 +20,5 @@
 [![tool](https://user-images.githubusercontent.com/25294569/64810060-4d9c8680-d5a3-11e9-9a66-84ff20e1179f.gif)](https://github.com/ardatan/graphql-toolkit)
 
 ![stencil](https://user-images.githubusercontent.com/25294569/64912199-8750c700-d734-11e9-807b-041fc6fe80d4.gif)
+
+![merge](https://user-images.githubusercontent.com/25294569/64980375-6322f080-d8c2-11e9-8cc0-34bec066f095.gif)

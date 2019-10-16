@@ -22,3 +22,8 @@
 ![stencil](https://user-images.githubusercontent.com/25294569/64912199-8750c700-d734-11e9-807b-041fc6fe80d4.gif)
 
 ![merge](https://user-images.githubusercontent.com/25294569/64980375-6322f080-d8c2-11e9-8cc0-34bec066f095.gif)
+
+![CLI-(Converted)](https://user-images.githubusercontent.com/25294569/66941718-2e848f00-f050-11e9-9608-162d0f97c258.gif)
+
+![config](https://user-images.githubusercontent.com/25294569/66941766-4e1bb780-f050-11e9-88b2-afaf73fdba98.gif)
+
